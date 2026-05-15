@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Uber-App.iml" filepath="$PROJECT_DIR$/.idea/Uber-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matching-service/matching-service.iml" filepath="$PROJECT_DIR$/matching-service/matching-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ride-service/ride-service.iml" filepath="$PROJECT_DIR$/ride-service/ride-service.iml" />
+    </modules>
+  </component>
+</project>
